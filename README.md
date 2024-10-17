@@ -44,7 +44,7 @@ The analysis was divided into several steps:
 - **Top Selling Products**: Identified the most popular product categories.
 - **Customer Segmentation**: Analyzed customer preferences based on demographics and geolocation.
 
-You can view the **Power BI dashboard** [here](#) (add link).
+You can view the **Power BI dashboard** [https://app.powerbi.com/reportEmbed?reportId=3bc7905a-c239-4d51-8fad-e35d4d73c3f0&autoAuth=true&ctid=975c8213-07b6-4c7f-b850-f683a488501b](#).
 
 ## 🔍 Insights & Recommendations
 
